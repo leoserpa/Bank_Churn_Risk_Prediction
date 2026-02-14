@@ -23,7 +23,7 @@ O dashboard foi estruturado em **4 visões dinâmicas**, permitindo que diferent
 
 ### 🏠 Página Inicial (Menu de Navegação)
 Interface de entrada com sistema de botões interativos para acesso rápido a todas as áreas do projeto.
-![Página Inicial](screenshots/imagem1.png)
+![Página Inicial](screenshots/imag.png)
 
 ### 1. Visão Geral
 Monitoramento macro da saúde da base e principais KPIs de churn do banco.
