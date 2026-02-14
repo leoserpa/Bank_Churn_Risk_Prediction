@@ -21,14 +21,30 @@ A base do projeto foi construída no Jupyter Notebook, onde realizei o ciclo com
 ## 📊 Dashboard Estratégico (Power BI)
 O dashboard foi estruturado em **4 visões dinâmicas**, permitindo que diferentes áreas do banco tomem decisões:
 
-1.  **Visão Geral:** Monitoramento macro da saúde da base e taxa de churn.
-2.  **Plano de Retenção:** Identificação nominal de clientes e **Capital em Risco** (integrando o saldo bancário com a probabilidade de churn).
-3.  **Perfil do Cliente:** Análise comportamental focada nas variáveis críticas (Idade, Tempo de Relacionamento, Gênero e Localização).
-4.  **Performance do Modelo de Machine Learning:** Transparência total sobre a importância das variáveis (Feature Importance) e métricas de confiança do modelo.
+### 🏠 Página Inicial (Menu de Navegação)
+Interface de entrada com sistema de botões interativos para acesso rápido a todas as áreas do projeto.
+![Página Inicial](screenshots/imagem1.png)
 
-## 🛠️ Tecnologias e Metodologias
-* **Linguagem:** Python (Pandas, Scikit-Learn, XGBoost, Joblib, Seaborn, matplotlib).
-* **Visualização:** Power BI (DAX avançado para cálculo de medidas de risco).
-* **UX/UI:** Design Dark Mode focado em leitura dinâmica e navegabilidade por botões.
+### 1. Visão Geral
+Monitoramento macro da saúde da base e principais KPIs de churn do banco.
+![Visão Geral](screenshots/imagem2.png)
+
+### 2. Plano de Retenção
+Identificação nominal de clientes de alto valor e cálculo de **Capital em Risco**.
+![Plano de Retenção](screenshots/imagem3.png)
+
+### 3. Perfil do Cliente
+Segmentação demográfica e comportamental para entender profundamente os motivos da saída.
+![Perfil do Cliente](screenshots/imagem4.png)
+
+### 4. Performance do Modelo de Machine Learning
+Transparência total sobre a importância das variáveis e métricas de validação do modelo XGBoost.
+![Performance do Modelo de Machine Learning](screenshots/imagem5.png)
+
+
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem:** Python (Pandas, Scikit-Learn, XGBoost, Joblib).
+* **Visualização:** Matplotlib, Seaborn e Power BI (DAX avançado).
+* **UX/UI:** Design Dark Mode focado em navegabilidade por botões e Tooltips instrucionais.
 
 ---
