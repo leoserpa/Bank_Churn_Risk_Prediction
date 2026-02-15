@@ -58,10 +58,10 @@ Transparência total sobre a importância das variáveis e métricas de validaç
 Os dados utilizados foram obtidos no Kaggle:
 [Churn Modelling — por Shruti_Iyyer](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data)
 
-## ▶️ Como abrir
+## ▶️  Visualizar o Dashboard no Power BI
 
-1. Abra `dashboard-powerbi/churn_powerbi_dashboard.pbix` no **Power BI Desktop**.
-
+1. Abra o **Power BI Desktop**
+2. Abra o arquivo `dashboard-powerbi/churn_powerbi_dashboard.pbix`
 
 ## 📁 Estrutura do Projeto
 ```
