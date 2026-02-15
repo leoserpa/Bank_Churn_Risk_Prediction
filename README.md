@@ -42,6 +42,13 @@ Transparência total sobre a importância das variáveis e métricas de validaç
 ![Performance do Modelo de Machine Learning](screenshots/imagem5.png)
 
 
+## 📚 Fonte dos Dados
+
+Os dados utilizados foram obtidos no Kaggle:
+[Churn Modelling — por Shruti Mehta](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data)
+
+
+
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python (Pandas, Scikit-Learn, XGBoost, Joblib).
 * **Visualização:** Matplotlib, Seaborn e Power BI (DAX avançado).
