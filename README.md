@@ -58,7 +58,29 @@ Transparência total sobre a importância das variáveis e métricas de validaç
 Os dados utilizados foram obtidos no Kaggle:
 [Churn Modelling — por Shruti_Iyyer](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data)
 
+## ▶️ Como abrir
 
+1. Abra `dashboard-powerbi/churn_powerbi_dashboard.pbix` no **Power BI Desktop**.
+
+
+## 📁 Estrutura do Projeto
+```
+churn-prediction-xgboost-powerbi/
+├── data/
+│   ├── raw/                    # Dados originais
+│   │   └── Churn_Modelling.csv
+│   └── processed/              # Dados processados pelo modelo
+│       ├── churn_predictions.csv
+│       ├── model_metrics.csv
+│       └── feature_importance.csv
+├── notebooks/
+│   └── bank_churn_risk_prediction.ipynb   # Pipeline completo de ML
+├── dashboard-powerbi/
+│   └── churn_powerbi_dashboard.pbix       # Dashboard interativo
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python (Pandas, Scikit-Learn, XGBoost, Joblib).
