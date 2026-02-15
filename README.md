@@ -54,4 +54,14 @@ Os dados utilizados foram obtidos no Kaggle:
 * **Visualização:** Matplotlib, Seaborn e Power BI (DAX avançado).
 * **UX/UI:** Design Dark Mode focado em navegabilidade por botões e Tooltips instrucionais.
 
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+
+## 👨‍💻 Desenvolvedor
+
+**Leonardo Serpa** 
+
 ---
