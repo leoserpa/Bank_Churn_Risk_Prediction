@@ -45,7 +45,7 @@ Transparência total sobre a importância das variáveis e métricas de validaç
 ## 📚 Fonte dos Dados
 
 Os dados utilizados foram obtidos no Kaggle:
-[Churn Modelling — por Shruti Mehta](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data)
+[Churn Modelling — por Shruti_Iyyer](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data)
 
 
 
