@@ -63,6 +63,11 @@ Os dados utilizados foram obtidos no Kaggle:
 1. Abra o **Power BI Desktop**
 2. Abra o arquivo `dashboard-powerbi/churn_powerbi_dashboard.pbix`
 
+## 🌐 Acesse o Dashboard Online
+
+**Link (Power BI Service / Publicação)**: [Acessar dashboard no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNTMyODU0ZWEtY2Q0Ni00MDMyLTk1MzUtODc5NWU2NTY4MGZmIiwidCI6IjI4NDVhN2ExLWQ3ZTMtNDBjNC1hMGYwLWY4NWI5OWY2Mjc2YyJ9)
+
+
 ## 📁 Estrutura do Projeto
 ```
 churn-prediction-xgboost-powerbi/
